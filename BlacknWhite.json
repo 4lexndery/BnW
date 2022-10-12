@@ -1,0 +1,27 @@
+{
+    "manifest": {
+        "author": "alec#8712",
+        "version": "1.0.0",
+        "name": "BlacknWhite"
+    },
+    "background": {},
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/998940673971585068\/1006944200111177779\/space.ttf"
+    },
+    "simple_colors": {
+        "background": -16777216,
+        "background_secondary": -14869219,
+        "blocked_bg": -16777216,
+        "accent": -14303143,
+        "active_channel": -15225722,
+        "mention_highlight": 1042661465
+    },
+    "colors": {
+        "primary_dark_200": -14303143
+    },
+    "drawable_tints": {},
+    "raws": {
+        "call_ringing": "https:\/\/cdn.discordapp.com\/attachments\/1012592070713679952\/1028663698300096522\/onlymp3.to_-_Queen_-_Killer_Queen_Top_Of_The_Pops",
+        "call_calling": "https:\/\/cdn.discordapp.com\/attachments\/1012592070713679952\/1028663698300096522\/onlymp3.to_-_Queen_-_Killer_Queen_Top_Of_The_Pops"
+    }
+}
